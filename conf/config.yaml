@@ -18,8 +18,8 @@ mysql:
   host: "127.0.0.1"
   port: 13306
   user: "root"
-  password: "root1234"
-  dbname: "bluebell"
+  password: "password"
+  dbname: "dbname"
   max_open_conns: 20
   max_idle_conns: 10
 
